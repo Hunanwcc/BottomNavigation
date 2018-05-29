@@ -16,7 +16,7 @@
     </dimen><!-- 6(Top Padding) - 12/2(extra padding due to badges) = 0 -->
     <dimen name="fixed_height_bottom_padding">10dp</dimen>
 
-    <dimen name="fixed_label_active">14sp</dimen>
+    <dimen name="fixed_label_active">12sp</dimen>
     <dimen name="fixed_label_inactive">12sp</dimen>
     <item name="fixed_label_active_to_inactive_ratio" format="float" type="dimen">0.857</item>
 
@@ -46,7 +46,7 @@
     <dimen name="shifting_height_top_padding_inactive">10dp
     </dimen><!-- 56(total) - 24(icon) - 16(bottom padding inactive) = 16 ||| 16 - 12/2(extra padding due to badges)  = 10-->
 
-    <dimen name="shifting_label">14sp</dimen>
+    <dimen name="shifting_label">12sp</dimen>
 
 
     <dimen name="shifting_icon_grid">24dp</dimen>
